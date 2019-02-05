@@ -112,6 +112,13 @@ figcaption {
   line-height: 0;
 }
 
+/* SECTION */
+
+section {
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
 /* MEDIA */
 
 img, video, audio {
